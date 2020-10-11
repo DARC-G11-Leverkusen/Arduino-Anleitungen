@@ -8,7 +8,7 @@ Die folgende Anleitung beschreibt, wie man die Ardunio-IDE zur Unterstützung de
 
 ![Dateimenue](https://github.com/DARC-G11-Leverkusen/Arduino-Anleitungen/blob/master/A1.png)
 
-1. Eingabe des Links zum Hersteller-Code
+1. Eingabe des Links zum Hersteller-Code:
 ```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 
 ### Das passende Board einstellen
-- Aufrufen von Werkzeuge / Board: ... / Boardmanager
+- Aufrufen von Werkzeuge / Board: ... / Boardverwalter
 ![Werkzeuge](https://github.com/DARC-G11-Leverkusen/Arduino-Anleitungen/blob/master/A3.png)
 
 - Nun `ESP32` in die Suchmaske eingeben und installieren. Es werden nun einmalig die speziellen Dateien des ESP32 aus dem Internet geladen. Je nach Datenrate benötigt das so seine Zeit!
