@@ -2,15 +2,16 @@
 Die folgende Anleitung beschreibt, wie man die Ardunio-IDE zur Unterstützung des ESP32 erweitert.
 ## IDE konfigurieren
 ### Voreinstellungen anpassen
-1. Datei / Voreinstellungen wählen 
+Datei / Voreinstellungen wählen
+
 ![Dateimenue](https://github.com/DARC-G11-Leverkusen/Arduino-Anleitungen/blob/master/A1.png)
 
-2. Eingabe des Links zum Hersteller-Code
+1. Eingabe des Links zum Hersteller-Code
 ```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
-3. Wichtig: Updates aktivieren.
-4. Optional: Nummeranzeige im Code aktivieren
+2. Wichtig: Updates aktivieren.
+3. Optional: Nummeranzeige im Code aktivieren
 **Danach die Arduino-Software beenden und neu starten**
 
 ![Voreinstellungen](https://github.com/DARC-G11-Leverkusen/Arduino-Anleitungen/blob/master/A2.png)
